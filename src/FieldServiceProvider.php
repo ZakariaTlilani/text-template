@@ -1,6 +1,6 @@
 <?php
 
-namespace ZakariaTlilani\TextTemplate;
+namespace zakariatlilani\texttemplate;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\Nova\Events\ServingNova;

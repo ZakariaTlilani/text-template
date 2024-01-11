@@ -1,6 +1,6 @@
 <?php
 
-namespace ZakariaTlilani\TextTemplate;
+namespace zakariatlilani\texttemplate;
 
 use Laravel\Nova\Fields\Field;
 

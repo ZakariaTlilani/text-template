@@ -11,7 +11,7 @@ composer require zakariatlilani/text-template
 ## Usage
 
 ``` php
-use ZakariaTlilani\TextTemplate\TextTemplate;
+use zakariatlilani\texttemplate\TextTemplate;
 
     TextTemplate::make('Name')
         ->category('category')  // the category related to the text template
