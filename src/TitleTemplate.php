@@ -4,18 +4,18 @@ namespace ZakariaTlilani\TextTemplate;
 
 use Laravel\Nova\Fields\Field;
 
-class Template extends Field
+class TextTemplate extends Field
 {
     /**
      * The field's component.
      *
      * @var string
      */
-    public $component = 'title-template';
+    public $component = 'text-template';
 
     /**
      * @param $category
-     * @return TitleTemplate
+     * @return TextTemplate
      */
     public function category($category)
     {
@@ -26,7 +26,7 @@ class Template extends Field
 
     /**
      * @param $endpoint
-     * @return TitleTemplate
+     * @return TextTemplate
      */
     public function endpoint($endpoint)
     {
