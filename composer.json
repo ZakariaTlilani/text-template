@@ -1,5 +1,5 @@
 {
-    "name": "zakariatlilani/text-template",
+    "name": "zakariatlilani/texttemplate",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "zakariatlilani\\TextTemplate\\": "src/"
+            "zakariatlilani\\texttemplate\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "zakariatlilani\\TextTemplate\\FieldServiceProvider"
+                "zakariatlilani\\texttemplate\\FieldServiceProvider"
             ]
         }
     },
