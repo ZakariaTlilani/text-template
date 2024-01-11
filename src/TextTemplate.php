@@ -11,7 +11,7 @@ class TextTemplate extends Field
      *
      * @var string
      */
-    public $component = 'text-template';
+    public $component = 'title-template';
 
     /**
      * @param $category
