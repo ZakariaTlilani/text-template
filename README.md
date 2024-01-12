@@ -2,8 +2,8 @@
 
 Support laravel nova 3.
 
-<img scr="preview/1.gif">
-<img scr="preview/2.gif">
+<img scr="https://github.com/ZakariaTlilani/text-template/blob/master/preview/1.gif?raw=true">
+<img scr="https://github.com/ZakariaTlilani/text-template/blob/master/preview/2.gif?raw=true">
 
 ## Installation
 
