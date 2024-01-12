@@ -2,6 +2,9 @@
 
 Support laravel nova 3.
 
+<img scr="preview/1.gif">
+<img scr="preview/2.gif">
+
 ## Installation
 
 ``` php
@@ -18,3 +21,13 @@ use zakariatlilani\texttemplate\TextTemplate;
         ->endpoint('/api/loadData/{category}/product/{product}'), // the endpoint related to the template (a product in this scenario)
 
 ```
+i recommend using it with this package: <a href="https://github.com/outl1ne/nova-simple-repeatable">nova-simple-repeatable</a>.
+
+## Credits
+<ul dir="auto">
+<li><a href="https://github.com/MohamedMaher5">Mohamed Maher</a></li>
+<li><a href="https://github.com/ZakariaTlilani">Zakaria Tlilani</a></li>
+</ul>
+
+## License
+Nova Text template is open-sourced software licensed under the <a href="https://opensource.org/licenses/MIT">MIT license</a>.
