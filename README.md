@@ -2,8 +2,8 @@
 
 Support laravel nova 3.
 
-![](https://github.com/ZakariaTlilani/text-template/blob/master/preview/1.gif)
-![](https://github.com/ZakariaTlilani/text-template/blob/master/preview/2.gif)
+![](https://github.com/ZakariaTlilani/text-template/blob/master/preview/preview.gif)
+![](https://github.com/ZakariaTlilani/text-template/blob/master/preview/nova-simple-repeatable.gif)
 
 ## Installation
 
